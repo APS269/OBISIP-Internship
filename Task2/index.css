@@ -1,9 +1,9 @@
 body {
-    background: rgb(253, 135, 152);
+    background: rgb(85, 82, 122);
 }
 
 #navbar {
-    background-color: lightpink;
+    background-color: rgb(108, 94, 137);
     font-size: 1.25rem
 }
 
@@ -85,7 +85,7 @@ body {
 
 
 #footer {
-    background-color: lightpink;
+    background-color: rgb(108, 94, 137);
     text-align: center;
 }
 
